@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App3() {
@@ -6,7 +6,7 @@ function App3() {
     <main>
     <section>
         <div>
-            <img src="./images/html.png" alt="HTML"/>
+            <img src="./images\html.png" alt="HTML"/>
         </div>
         <div>
             <h1>HTML</h1>
