@@ -1,7 +1,7 @@
 
 import './App.css';
 
-function App2() {
+function MyHeader() {
   return (
     <header>
         <section>
@@ -18,4 +18,4 @@ function App2() {
   );
 }
 
-export default App2;
+export default MyHeader;

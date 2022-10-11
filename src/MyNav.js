@@ -1,7 +1,7 @@
 
 import './App.css';
 
-function App() {
+function MyNav() {
   return (
     <nav>
     <div className="nav_logo">
@@ -39,4 +39,4 @@ function App() {
   );
 }
 
-export default App;
+export default MyNav;
